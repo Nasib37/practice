@@ -1,0 +1,315 @@
+.slider-area{
+    background-image: url("../img/banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    height: 800px;
+}
+.cus-text1{
+    font-size: 2.25rem;
+    font-style: italic;
+    line-height: 3.25rem;
+    padding-top: 150px;
+    font-weight: 700;
+
+}
+.cus-text2{
+    font-size: 4.5rem;
+    /*font-style: italic;*/
+    line-height: 4.5rem;
+    margin-bottom: 4rem;
+    font-weight: 700;
+}
+.btn1{
+    background-color: #1e5f2f;
+    padding: 1.25rem 2.5rem;
+    font-size: 1.125rem;
+    font-weight: 700;
+    border-radius: 5px;
+    /*text-align: center;*/
+    color: white;
+}
+.cus-text3{
+    font-size: 2.5rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    line-height: 2.2;
+}
+.cus-text4{
+    font-size: 1rem;
+    font-weight: 400;
+    font-style: italic;
+}
+.cus-icon{
+    font-size: 60px;
+}
+.cus-heading h4{
+    font-size: 1.5rem;
+}
+.cus-font-icon1 {
+    
+    background: yellow;
+    border-radius: 50%;
+    display: inline-block;
+    height: 2em;
+    position: relative;
+    width: 2.5em;
+}
+.fa-shopping-cart {
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 25px;
+}
+.fa-laptop {
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 25px;
+}
+.fa-lock {
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 25px;
+}
+.cus-font-icon2 {
+    background: yellow;
+    border-radius: 50%;
+    display: inline-block;
+    height: 2em;
+    position: relative;
+    width: 2.5em;
+}
+.cus-font-icon3 {
+    
+    background: yellow;
+    border-radius: 50%;
+    display: inline-block;
+    height: 2em;
+    position: relative;
+    width: 2.5em;
+}
+.cus-text5{
+    font-size: 1rem;
+    font-weight: 400;
+}
+.cus-text6{
+    font-size: 2.5rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+.cus-text{
+    font-size: 1rem;
+    font-weight: 400;
+    font-style: italic;
+}
+.card-body h5 {
+    font-size: 1.5rem!important;
+    font-weight: 700!important;
+}
+.card-body p {
+    font-style: italic;
+    font-weight: 400;
+}
+.cus-text7{
+    /*font-size: 1rem;*/
+    /*font-weight: 400;*/
+    font-style: italic;
+    color: #6c757d !important;
+}
+.cus-text8{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.cus-text9{
+    font-size: 1rem;
+    font-weight: 500;
+    font-style: italic;
+    color: #6c757d !important;
+}
+/*.card-body i{
+    font-size: 2rem;
+}*/
+.cus-text10{
+    font-size: 1rem;
+    font-weight: 400;
+}
+.cus-text11{
+    font-size: 3rem;
+    color: #6c757d;
+}
+.slider-area2{
+    background-image: url("../img/1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    height: 800px;
+}
+.cus-text12{
+    font-size: 2.5rem; 
+    font-weight: 700;
+}
+.navbar-brand{
+    font-size: 2.6rem;
+    font-style: italic;
+    font-weight: 700;
+}
+.cus-text13{
+    margin-right: 20px;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.cus-text14{
+    margin-right: 20px;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.cus-text15{
+    margin-right: 20px;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.cus-text16{
+    margin-right: 20px;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.cus-text17{
+    margin-right: 20px;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.cus-text18{
+    font-size: 1rem;
+    font-weight: 400;
+}
+.cus-text19{
+    font-size: 1.4rem;
+}
+.cus-icon10{
+   /* background-color: black;
+    border-radius: 50px; 
+    padding: 20px!important;*/
+    width: 46px;
+    height: 46px;
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 0.5em 0.6em;
+  background: white;
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  font-size: 1.5rem;
+}
+.cus-icon15{
+ width: 36px;
+    height: 36px;
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 0.5em 0.6em;
+  background:#000;
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  color: white;
+}
+
+
+.fw{
+    margin-top: 2rem;
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+.btn2{
+    background-color: #ffc800;
+    border-color: #ffc800;
+    padding: 0.6rem 1rem;
+    font-size: 1.125rem;
+    font-weight: 700;
+    border-radius: 5px;
+    /*text-align: center;*/
+    color: white;
+}
+hr.divider1 {
+    height: 0.2rem;
+    max-width: 8.25rem;
+    margin: 1.5rem auto;
+    background-color: #f4623a;
+    opacity: 1;
+}
+.cus-icon2nd{
+    font-size: 2rem;
+    color: #6c757d;
+    /*font-weight: 400;*/
+}
+hr.divider2 {
+    height: 0.2rem;
+    max-width: 10.25rem;
+    margin: 1.5rem auto;
+    background-color: #f4623a;
+    opacity: 1;
+}
+.con2{
+    line-height: 5rem;
+}
+.badge{
+    background:#F0F8FF;
+}
+.cus-icon3nd{
+    font-size: 2rem;
+    color: #6c757d;
+    /*font-weight: 400;*/
+}
+.navbar-brand1{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.navbar-brand4{
+    font-size: 2.2rem;
+    font-weight: 700;
+    font-family: 'Azeret Mono', monospace;
+}
+.bg10{
+    background-color: #1c1c1d;
+}
+.modal-body{   
+    font-size: 1rem;
+    color: black;
+}
+
+.btn10{
+    background-color: #1e5f2f;
+    padding: 0.6rem 0.3rem;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 5px;
+    /*text-align: center;*/
+    color: white;
+}
+.team-member img{
+    box-shadow: 0px 5px 5px 0px #adb5bd;
+}
+.bg{
+   background-color: #1e5f2f; 
+
+}
+.fonts{
+    font-family: 'Noto Sans', sans-serif;
+}
